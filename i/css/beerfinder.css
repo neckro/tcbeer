@@ -1,0 +1,39 @@
+body {
+	background: #fff;
+	border: none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+#pageLayout p {
+	font-familty: verdana, sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	text-decoration: none;
+	color: #000;
+	}
+#pageLayout div {
+	font-family: verdana, sans-serif;
+	font-size: 10pt;
+	}	
+.qSelect {
+	display: none;
+	}
+#pageLayout #header1 {
+	background: #ededcc url(/i/gfx/logot.gif) no-repeat;
+	height: 70px;
+	}
+#pageLayout #header2 {
+	background: url(/i/gfx/logob-beerfinder.gif) no-repeat;
+	height: 30px;
+	}
+#pageLayout #queryWindow {
+	vertical-align: top;
+	width: 180px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}	
+#pageLayout #mapWindow {
+	width: 600px;
+	}
